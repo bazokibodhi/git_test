@@ -1,0 +1,4 @@
+Dept:- Full Stack Development
+Cloud:- AWS
+Backend:- Node Js 
+Frontend:- REACT Js
